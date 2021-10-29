@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const page3 = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>My first Gatsby page</h1>
+    <h1>My first Gatsby xz</h1>
     <p>Creating web-sites with Gatsby is really fan/ I'll try</p>
     <StaticImage
       src="../images/ametist-1.jpg"
