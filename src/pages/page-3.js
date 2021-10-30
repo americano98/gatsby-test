@@ -13,6 +13,7 @@ const page3 = () => (
     <StaticImage
       src="../images/ametist-1.jpg"
       width={399}
+      height={612}
       quality={95}
       formats={["auto", "webp", "avif"]}
       alt="Аметист"
